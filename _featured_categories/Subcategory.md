@@ -1,7 +1,7 @@
 ---
 layout: list
 bigtitle: Subcat
-slug: subcat
+slug: Subcat
 menu: true
 submenu: true
 description: >
