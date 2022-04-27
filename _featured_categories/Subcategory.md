@@ -1,14 +1,14 @@
 ---
 layout: list
-bigtitle: Subcat
-slug: Subcat
+bigtitle: Subcategory
+slug: Subcategory
 menu: true
 submenu: true
 description: >
   하위 메뉴 예시
 ---
 
-# Subcat
+# Subcategory
 
 ## 카테고리
 

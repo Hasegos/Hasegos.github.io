@@ -53,8 +53,8 @@ menu:
     url: /example1/
   - title: Eaxmple2
     url: /example2/
-  - title: Subcat
-    url: /Subcat/
+  - title: Subcategory
+    url: /Subcategory/
     submenu:
       - title: test1
         url: /test1/
