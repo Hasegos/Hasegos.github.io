@@ -84,7 +84,7 @@ paginate_path: /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack  # 그냥 확인할떄
+#theme: jekyll-theme-hydejack # 그냥 확인할떄
 remote_theme: hydecorp/hydejack@v9.1.6 # 깃헙에 올릴떄
 
 # Customizaton
@@ -417,3 +417,12 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+tipue_search:
+  include:
+    pages: false
+    collections: []
+  exclude:
+    files: []
+    categories: []
+    tags: []
