@@ -8,7 +8,7 @@ description: >
   Modernized design, big headlines, and big new features.
 sitemap: false
 categories:
-  - Subcategory
+  - Subcat
   - test1
 ---
 
@@ -20,7 +20,7 @@ Version 9 is the most complete version of Hydejack yet.
 - Table of Contents
   {:toc .large-only}
 
-## Subcategory-test1-post1
+## Subcat-test1-post1
 
 Ever since the introduction of Dark Mode, link styles have been a bit of an issue. Specifically, finding an accent color that worked on both light and dark backgrounds was the problem. With Hydejack 9, the [link style](#linking-in-style) has been revamped so that legibility is no longer tied to the choice of accent_color, giving you much more freedom in creating a unique design flavor for your site.
 

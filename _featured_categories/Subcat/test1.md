@@ -1,6 +1,6 @@
 ---
 layout: list
-category: Subcategory
+category: Subcat
 bigtitle: Test1
 slug: test1
 description: >
